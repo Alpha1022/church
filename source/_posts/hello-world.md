@@ -7,8 +7,7 @@ id: hello-world
 <!--more-->
 使用 Netlify 自动部署，请在 GitHub 仓库上修改代码。
 
-以下是测试：
-$\sum\limits_{i=1}^n{a_i}$
+以下是测试：$\sum\limits_{i=1}^n{a_i}$
 
 {% cq %}
 悄悄张开大结界

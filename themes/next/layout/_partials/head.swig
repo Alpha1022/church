@@ -91,6 +91,7 @@
 {% if theme.favicon.ms_browserconfig %}
   <meta name="msapplication-config" content="{{ url_for(theme.favicon.ms_browserconfig) }}" />
 {% endif %}
+  <link href="//cdn.staticfile.org/KaTeX/0.7.1/katex.min.css"rel="stylesheet">
 
 {% if page.keywords %}
   <meta name="keywords" content="{{ page.keywords }}" />
