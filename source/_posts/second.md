@@ -54,7 +54,7 @@ id: second-competition
 
 - cuking:
 
-  老老实实打暴力！
+  无。
 
 - ARFA:
 
