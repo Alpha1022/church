@@ -1,15 +1,15 @@
-# ARFA ½ÌÌÃ
-## ¹Ù·½²©¿Í¡£
+# ARFA æ•™å ‚
+## å®˜æ–¹åšå®¢ã€‚
 
-ÕâÀïÊÇ ARFA ½ÌÌÃµÄ¹Ù·½²©¿Í¡£
+è¿™é‡Œæ˜¯ ARFA æ•™å ‚çš„å®˜æ–¹åšå®¢ã€‚
 
-Ê¹ÓÃ Netlify ×Ô¶¯²¿Êð£¬ÇëÔÚ GitHub ²Ö¿âÉÏÐÞ¸Ä´úÂë¡£
+ä½¿ç”¨ Netlify è‡ªåŠ¨éƒ¨ç½²ï¼Œè¯·åœ¨ GitHub ä»“åº“ä¸Šä¿®æ”¹ä»£ç ã€‚
 
-ÒÔÏÂÊÇ¶ÔÓÚÃ»ÓÐ½Ó´¥¹ý Hexo µÄ³ÉÔ±µÄ²»ÍêÈ«½Ì³Ì¡£
+ä»¥ä¸‹æ˜¯å¯¹äºŽæ²¡æœ‰æŽ¥è§¦è¿‡ Hexo çš„æˆå‘˜çš„ä¸å®Œå…¨æ•™ç¨‹ã€‚
 
 ---
 
-Ð´ÎÄÕÂ£¬ÇëÔÚ¿ªÍ·¼ÓÉÏÕâÑùÒ»¶Î£º
+å†™æ–‡ç« ï¼Œè¯·åœ¨å¼€å¤´åŠ ä¸Šè¿™æ ·ä¸€æ®µï¼š
 
 ```plain
 ---
@@ -24,19 +24,15 @@ category: xxx
 ---
 ```
 
-¿´Ó¢ÎÄÓ¦¸ÃÄÜ¶®¡£  
-ÌØ±ðµØ£¬`id` ÊÇÎÄÕÂµÄ URL ±êÊ¶·û¡£
+çœ‹è‹±æ–‡åº”è¯¥èƒ½æ‡‚ã€‚  
+ç‰¹åˆ«åœ°ï¼Œ`id` æ˜¯æ–‡ç« çš„ URL æ ‡è¯†ç¬¦ã€‚
 
-ÆäÖÐ£¬¼ÓÈëÕâÑùÒ»ÐÐ£º
+å…¶ä¸­ï¼ŒåŠ å…¥è¿™æ ·ä¸€è¡Œï¼š
 
 ```plain
 <!--more-->
 ```
 
-»áÊ¹¸ÃÐÐÒÔÉÏµÄÄÚÈÝ³ÉÎªÏÔÊ¾ÔÚÊ×Ò³µÄÕªÒªÄÚÈÝ¡£
+ä¼šä½¿è¯¥è¡Œä»¥ä¸Šçš„å†…å®¹æˆä¸ºæ˜¾ç¤ºåœ¨é¦–é¡µçš„æ‘˜è¦å†…å®¹ã€‚
 
-´ËÍâ£¬Èç¹ûÒªÊ¹ÓÃ LaTeX£¬×¢ÒâÒ»Ð©¿ÉÄÜÓë markdown ³åÍ»µÄÓï·¨Ê¹ÓÃ `\` ×ªÒå¡£
-
-ÀýÈç£º`$\sum\limits_{i=1}^n{a_i}$` Çë¸ÄÎª `$\\sum\\limits\_{i=1}^n{a\_i}$`¡£
-
-»¹ÓÐÒ»Ð©Ææ¹ÖµÄ¶«Î÷¿ÉÒÔÔÚ[ÕâÀï](https://hexo.io/docs/tag-plugins.html)ºÍ[ÕâÀï](http://theme-next.iissnan.com/tag-plugins.html)ÕÒµ½¡£
+è¿˜æœ‰ä¸€äº›å¥‡æ€ªçš„ä¸œè¥¿å¯ä»¥åœ¨[è¿™é‡Œ](https://hexo.io/docs/tag-plugins.html)å’Œ[è¿™é‡Œ](http://theme-next.iissnan.com/tag-plugins.html)æ‰¾åˆ°ã€‚
