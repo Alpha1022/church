@@ -58,7 +58,7 @@ id: second-competition
 
 - ARFA:
 
-  无。
+  我在准备下一个比赛的签到题，所以不能出水题了！
 
 # 答疑
 
