@@ -21,8 +21,6 @@ id: second-competition
 <span class="lyric-from" style="float: right; ">Aimer - LAST STARDUST</span>
 </blockquote>
 
-白驹过隙，乌飞兔走；残雪易逝，韶华难留。岁月在命令行的闪烁间，不时地发出一声低语。  
-此时，在代码的字里行间和教堂给予的箴语间，我虔诚地体会着这呢喃。  
 「是啊，时候到了！」
 <!--more-->
 
