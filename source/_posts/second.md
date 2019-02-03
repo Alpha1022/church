@@ -21,7 +21,8 @@ id: second-competition
 <span class="lyric-from" style="float: right; ">Aimer - LAST STARDUST</span>
 </blockquote>
 
-白驹过隙，乌飞兔走；残雪易逝，韶华难留。岁月在命令行的闪烁间，不时地发出一声低语。此时，在代码的字里行间和教堂给予的箴语间，我虔诚地体会着这呢喃。  
+白驹过隙，乌飞兔走；残雪易逝，韶华难留。岁月在命令行的闪烁间，不时地发出一声低语。  
+此时，在代码的字里行间和教堂给予的箴语间，我虔诚地体会着这呢喃。  
 “是啊，时候到了！”
 <!--more-->
 
@@ -44,15 +45,22 @@ id: second-competition
 # 出题人的叮嘱
 
 - alpha1022:
+
   T2 对于 SX 的同学的一个声明：LHF 不是 LiuHaiFeng 而是 LiHaoFu 大佬，谢谢，不要误会。另外请 SX 本家同学多多关注~~，文体两开花~~。
+
 - SXnoname:
+
   这场比赛画风清奇，有参考北大出题风格，请各位 AKer 们慢点 AK。
+
 - cuking:
-  无。
+
+  老老实实打暴力！
+
 - ARFA:
+
   无。
 
-# 赛事答疑
+# 答疑
 
 临近比赛时会发出。
 
