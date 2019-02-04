@@ -62,7 +62,7 @@ id: second-competition
 
 # 答疑
 
-临近比赛时会发出。
+可以在[此帖](https://www.luogu.org/discuss/show?postid=98312)也可在此下评论。
 
 # 题解
 
