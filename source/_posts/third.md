@@ -47,7 +47,7 @@ id: third-competition
 
 - arfa:
 
-无。
+我不做人了，JOJO！
 
 # 答疑
 到时候再说啦！
